@@ -1,14 +1,20 @@
-# Beta Cabeleireiro — site de portfólio
+# Beta Cabeleireiro
 
-Site de uma página para um salão de cabeleireiro, unhas e estética em Ermesinde.
+One-page website for a neighborhood hair salon in Ermesinde, Portugal (site content in Portuguese).
 
-**Feito com:** HTML, CSS e JavaScript (sem frameworks), desenvolvido com apoio de IA (Claude).
+**Live site:** https://beta-cabeleireiro.netlify.app
 
-**Funcionalidades**
-- Design editorial e totalmente responsivo (computador e telemóvel)
-- Tabela de serviços e preços
-- Formulário de marcação que gera a mensagem e abre o WhatsApp do salão, com validação dos dias de encerramento
-- Vídeo do salão otimizado para a web (22 MB → 2 MB) e imagens comprimidas
-- Animações suaves ao fazer scroll e mapa do Google integrado
+**Built with:** HTML, CSS and vanilla JavaScript. No frameworks.
 
-*Projeto de portfólio — não indexado em motores de busca.*
+## Features
+
+- Editorial design, fully responsive (desktop and mobile)
+- Services and price list for hair, nails and beauty
+- Booking form that builds a formatted message and opens the salon's WhatsApp, with validation for closing days and hours
+- "Meet Elizabete" story section, client work gallery and salon photos
+- Salon video optimized for the web (22 MB → 2 MB) and compressed images
+- Smooth scroll animations and an embedded Google map
+
+*Portfolio project, not indexed by search engines.*
+
+Design & development: Henrique Jesus
